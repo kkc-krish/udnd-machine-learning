@@ -7,5 +7,5 @@
 * [ud359 Intro to Data Science](ud359/01_intro_to_data_science.md)
 * [ud600 Reinforcement Learning](ud600/01_reinforcement_learning.md)
 * [ud730 Deep Learning](ud730/01_deep_learning.md)
-* cs373 Artificial Intelligence For Robotics
+* [cs373 Artificial Intelligence For Robotics](cs373/01_artificial_intelligence_for_robotics.md)
 
