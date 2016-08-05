@@ -26,6 +26,7 @@ The Nanodegree currently identifies the following as *support courses*.
 * (ud730) [Deep Learning](https://www.udacity.com/courses/deep-learning--ud730) (**3 mos**)
 * (cs373) [Artificial Intelligence for Robotics](https://www.udacity.com/courses/artificial-intelligence-for-robotics--cs373) (**2 mos**)
 * (ud501) [Machine Learning for Trading](https://www.udacity.com/courses/machine-learning-for-trading--ud501) (**4 mos**)
+* (ud120) [Intro to Machine Learning](https://www.udacity.com/course/intro-to-machine-learning--ud120) (**10 wks**) *not included by default but added for completeness*
 
 The Nanodegree currently identifies the following as *projects* to be done for certification.
 * **P0: Titanic Survival Exploration** -- "create decision functions that attempt to predict survival outcomes from the 1912 Titanic disaster..."
