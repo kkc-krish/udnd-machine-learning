@@ -20,6 +20,10 @@ This section will capture notes/resources relevant to the following courses, tha
 
 * [Intro to Descriptive Statistics](https://www.udacity.com/courses/intro-to-descriptive-statistics--ud827) (**2 mos**)
 * [Intro to Data Science](https://www.udacity.com/courses/intro-to-data-science--ud359) (**2 mos**)
+* [Reinforcement Learning ](https://www.udacity.com/courses/reinforcement-learning--ud600)(**4 mos**)
+* [Deep Learning](https://www.udacity.com/courses/deep-learning--ud730) (**3 mos**)
+* [Artificial Intelligence for Robotics](https://www.udacity.com/courses/artificial-intelligence-for-robotics--cs373) (**2 mos**)
+* [Machine Learning for Trading](https://www.udacity.com/courses/machine-learning-for-trading--ud501) (**4 mos**)
 
 
 ## Self-Driving Car ND
