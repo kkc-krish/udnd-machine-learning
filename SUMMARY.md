@@ -5,5 +5,5 @@
 * [st101 Intro To Statistics](st101/01_intro_to_statistics.md)
 * [ud827 Intro To Descriptive Statistics](ud827/01_intro_to_descriptive_statistics.md)
 * [ud359 Intro to Data Science](ud359/01_intro_to_data_science.md)
-* ud600 Reinforcement Learning
+* [ud600 Reinforcement Learning](ud600/01_reinforcement_learning.md)
 
