@@ -10,4 +10,5 @@
 * [cs373 Artificial Intelligence For Robotics](cs373/01_artificial_intelligence_for_robotics.md)
 * [ud501 Machine Learning for Trading](ud501/01_machine_learning_for_trading.md)
 * [coursera MachineLearning](coursera/01_machinelearning.md)
+* ud120 Intro to Machine Learning
 
