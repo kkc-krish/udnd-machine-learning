@@ -8,11 +8,11 @@ This section will capture notes/resources that are useful for getting up to spee
 
 In particular:
 
-* [Intro to Computer Science](https://www.udacity.com/course/intro-to-computer-science--cs101) **(3 mos)** -- covers learning Python, the core programming language used
-* [Intro to Statistics](https://www.udacity.com/course/intro-to-statistics--st101) **(2 mo)** -- teaches basics of analyzing and visualizing data 
-* [Intro to Descriptive Statistics](https://www.udacity.com/course/intro-to-descriptive-statistics--ud827) **(2 mos)** -- provides basic coverage of statistics to extract info from data 
-* [Intro to Data Analysis](https://www.udacity.com/course/intro-to-data-analysis--ud170) **(6 wks)** -- covers key Python libraries (numpy, matplotlib etc.) for data analysis
-* [Intro to Inferential Statistics ](https://www.udacity.com/course/intro-to-inferential-statistics--ud201)**(2 mos)** builds on the Descriptive Statistics to teach prediction.
+* (cs101) [Intro to Computer Science](https://www.udacity.com/course/intro-to-computer-science--cs101) **(3 mos)** -- covers learning Python, the core programming language used
+* (st101) [Intro to Statistics](https://www.udacity.com/course/intro-to-statistics--st101) **(2 mo)** -- teaches basics of analyzing and visualizing data 
+* (ud827) [Intro to Descriptive Statistics](https://www.udacity.com/course/intro-to-descriptive-statistics--ud827) **(2 mos)** -- provides basic coverage of statistics to extract info from data 
+* (ud170) [Intro to Data Analysis](https://www.udacity.com/course/intro-to-data-analysis--ud170) **(6 wks)** -- covers key Python libraries (numpy, matplotlib etc.) for data analysis
+* (ud201) [Intro to Inferential Statistics ](https://www.udacity.com/course/intro-to-inferential-statistics--ud201)**(2 mos)** builds on the Descriptive Statistics to teach prediction.
 
 
 ## Machine Learning ND
@@ -20,12 +20,12 @@ This section will capture notes/resources relevant to the following courses, tha
 
 The Nanodegree currently identifies the following as *support courses*.
 
-* [Intro to Descriptive Statistics](https://www.udacity.com/courses/intro-to-descriptive-statistics--ud827) (**2 mos**)
-* [Intro to Data Science](https://www.udacity.com/courses/intro-to-data-science--ud359) (**2 mos**)
-* [Reinforcement Learning ](https://www.udacity.com/courses/reinforcement-learning--ud600)(**4 mos**)
-* [Deep Learning](https://www.udacity.com/courses/deep-learning--ud730) (**3 mos**)
-* [Artificial Intelligence for Robotics](https://www.udacity.com/courses/artificial-intelligence-for-robotics--cs373) (**2 mos**)
-* [Machine Learning for Trading](https://www.udacity.com/courses/machine-learning-for-trading--ud501) (**4 mos**)
+* (ud827) [Intro to Descriptive Statistics](https://www.udacity.com/courses/intro-to-descriptive-statistics--ud827) (**2 mos**)
+* (ud359) [Intro to Data Science](https://www.udacity.com/courses/intro-to-data-science--ud359) (**2 mos**)
+* (ud600) [Reinforcement Learning ](https://www.udacity.com/courses/reinforcement-learning--ud600)(**4 mos**)
+* (ud730) [Deep Learning](https://www.udacity.com/courses/deep-learning--ud730) (**3 mos**)
+* (cs373) [Artificial Intelligence for Robotics](https://www.udacity.com/courses/artificial-intelligence-for-robotics--cs373) (**2 mos**)
+* (ud501) [Machine Learning for Trading](https://www.udacity.com/courses/machine-learning-for-trading--ud501) (**4 mos**)
 
 The Nanodegree currently identifies the following as *projects* to be done for certification.
 * **P0: Titanic Survival Exploration** -- "create decision functions that attempt to predict survival outcomes from the 1912 Titanic disaster..."
