@@ -16,7 +16,9 @@ In particular:
 
 
 ## Machine Learning ND
-This section will capture notes/resources relevant to the following courses, that form the core of the [Machine Learning Nanodegree](https://www.udacity.com/course/machine-learning-engineer-nanodegree-by-google--nd009). The Nanodegree currently identifies the following as *support courses*.
+This section will capture notes/resources relevant to the following courses, that form the core of the [Machine Learning Nanodegree](https://www.udacity.com/course/machine-learning-engineer-nanodegree-by-google--nd009). 
+
+The Nanodegree currently identifies the following as *support courses*.
 
 * [Intro to Descriptive Statistics](https://www.udacity.com/courses/intro-to-descriptive-statistics--ud827) (**2 mos**)
 * [Intro to Data Science](https://www.udacity.com/courses/intro-to-data-science--ud359) (**2 mos**)
@@ -25,9 +27,18 @@ This section will capture notes/resources relevant to the following courses, tha
 * [Artificial Intelligence for Robotics](https://www.udacity.com/courses/artificial-intelligence-for-robotics--cs373) (**2 mos**)
 * [Machine Learning for Trading](https://www.udacity.com/courses/machine-learning-for-trading--ud501) (**4 mos**)
 
+The Nanodegree currently identifies the following as *projects* to be done for certification.
+* **P0: Titanic Survival Exploration** -- "create decision functions that attempt to predict survival outcomes from the 1912 Titanic disaster..."
+* **P1: Predicting Boston Housing Prices** -- "build an optimal model based on a statistical analysis with the tools available. This model will then used to estimate the best selling price for your client’s home"
+* **P2: Build a Student Intervention System** -- "your goal is to model the factors that predict how likely a student is to pass their high school final exam."
+* **P3: Creating Customer Segments** -- "Your task is to use unsupervised learning techniques to see if any similarities exist between customers, and how to best segment customers into distinct categories."
+* **P4: Train a Smartcab to Drive** -- "you will use reinforcement learning to train a smartcab how to drive."
+* **P5: Capstone Project** -- "..leverage what you’ve learned throughout the Nanodegree program to solve a problem of your choice by applying machine learning algorithms and techniques.."
+
+
 
 ## Self-Driving Car ND
-This section will capture notes/resources relevant to the upcoming Self-Driving Nanodegree, some of which are speculative (since the official syllabus is not present)
+This section will capture notes/resources relevant to the upcoming [Self-Driving Nanodegree](https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd013), some of which are speculative (since the official syllabus is not present).
 
 
 
