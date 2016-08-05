@@ -16,7 +16,11 @@ In particular:
 
 
 ## Machine Learning ND
-This section will capture notes/resources relevant to the following courses, that form the core of the Machine Learning Nanodegree.
+This section will capture notes/resources relevant to the following courses, that form the core of the [Machine Learning Nanodegree](https://www.udacity.com/course/machine-learning-engineer-nanodegree-by-google--nd009). The Nanodegree currently identifies the following as *support courses*.
+
+* [Intro to Descriptive Statistics](https://www.udacity.com/courses/intro-to-descriptive-statistics--ud827) (**2 mos**)
+* [Intro to Data Science](https://www.udacity.com/courses/intro-to-data-science--ud359) (**2 mos**)
+
 
 ## Self-Driving Car ND
 This section will capture notes/resources relevant to the upcoming Self-Driving Nanodegree, some of which are speculative (since the official syllabus is not present)
