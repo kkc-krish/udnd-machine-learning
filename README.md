@@ -4,12 +4,15 @@ This GitBook is being used to maintain study notes and resources related to the 
 
 
 ## Background 
-This section will capture notes/resources that are useful for getting up to speed with the requirements for any machine learning course. A good reference is the [list of Udacity courses on Data Science](https://www.udacity.com/courses/data-science). In particular:
-1. [Intro to Computer Science](https://www.udacity.com/course/intro-to-computer-science--cs101) **(3 mos)** -- covers learning Python, the core programming language used
-2. [Intro to Statistics](https://www.udacity.com/course/intro-to-statistics--st101) **(2 mo)** -- teaches basics of analyzing and visualizing data
-3. [Intro to Descriptive Statistics](https://www.udacity.com/course/intro-to-descriptive-statistics--ud827) **(2 mos)** -- provides basic coverage of statistics to extract info from data 
-4. [Intro to Data Analysis](https://www.udacity.com/course/intro-to-data-analysis--ud170) **(6 wks)** -- covers key Python libraries (numpy, matplotlib etc.) for data analysis
-5. [Intro to Inferential Statistics ](https://www.udacity.com/course/intro-to-inferential-statistics--ud201)**(2 mos)** builds on the Descriptive Statistics to teach prediction.
+This section will capture notes/resources that are useful for getting up to speed with the requirements for any machine learning course. A good reference is the [list of Udacity courses on Data Science](https://www.udacity.com/courses/data-science). 
+
+In particular:
+
+* [Intro to Computer Science](https://www.udacity.com/course/intro-to-computer-science--cs101) **(3 mos)** -- covers learning Python, the core programming language used
+* [Intro to Statistics](https://www.udacity.com/course/intro-to-statistics--st101) **(2 mo)** -- teaches basics of analyzing and visualizing data 
+* [Intro to Descriptive Statistics](https://www.udacity.com/course/intro-to-descriptive-statistics--ud827) **(2 mos)** -- provides basic coverage of statistics to extract info from data 
+* [Intro to Data Analysis](https://www.udacity.com/course/intro-to-data-analysis--ud170) **(6 wks)** -- covers key Python libraries (numpy, matplotlib etc.) for data analysis
+* [Intro to Inferential Statistics ](https://www.udacity.com/course/intro-to-inferential-statistics--ud201)**(2 mos)** builds on the Descriptive Statistics to teach prediction.
 
 
 ## Machine Learning ND
