@@ -40,5 +40,10 @@ The Nanodegree currently identifies the following as *projects* to be done for c
 ## Self-Driving Car ND
 This section will capture notes/resources relevant to the upcoming [Self-Driving Nanodegree](https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd013), some of which are speculative (since the official syllabus is not present).
 
+## Resources
+
+Other resources or courses that may be relevant:
+* [Machine Learning ](https://www.coursera.org/learn/machine-learning/home/welcome)(Andrew Ng, Coursera)
+
 
 
