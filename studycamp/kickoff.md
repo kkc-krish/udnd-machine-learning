@@ -25,4 +25,8 @@ Tensor Flow For Poets
 Deep Learning
  * Bit of a buzzword. Just a certain type of classifier. Solving problems in image recognition and speech recognition.
  * Recommends: "Programming Collective Intelligence" as a good book to start
+ * Find two people who teach the same concept in order to understand the basics
+ * Stanford's advanced class: [cs231n.github.io](http://cs231n.github.io)
+ * Google Deep Learning On Udacity
+ * Tutorials at tensorflow.org
  * 
