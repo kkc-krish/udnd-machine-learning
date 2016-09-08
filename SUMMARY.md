@@ -11,5 +11,5 @@
 * [ud501 Machine Learning for Trading](ud501/01_machine_learning_for_trading.md)
 * [ud120 Intro to Machine Learning](ud120/01_intro_to_machine_learning.md)
 * [coursera MachineLearning](coursera/01_machinelearning.md)
-* Kickoff
+* [Kickoff](studycamp/kickoff.md)
 
