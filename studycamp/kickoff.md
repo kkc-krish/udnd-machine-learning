@@ -29,4 +29,9 @@ Deep Learning
  * Stanford's advanced class: [cs231n.github.io](http://cs231n.github.io)
  * Google Deep Learning On Udacity
  * Tutorials at tensorflow.org
+ * Tutorials at scikit-learn.org
+ 
+Questions
+ * When you train a classifier should you understand what it is doing under the hood? *The underlying ideas for basic classifiers are worth knowing. But for more advanced concepts, it is harder to understand (more research driven) so pace yourself.*
+ * *Explain Tensor Flow For Mobile* Train ML model to recognize images on a laptop. Once trained, you can install the model anywhere (Android, Raspberry Pi) -- it is a bit of a hack. There are samples available.
  * 
