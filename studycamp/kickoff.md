@@ -34,4 +34,24 @@ Deep Learning
 Questions
  * When you train a classifier should you understand what it is doing under the hood? *The underlying ideas for basic classifiers are worth knowing. But for more advanced concepts, it is harder to understand (more research driven) so pace yourself.*
  * *Explain Tensor Flow For Mobile* Train ML model to recognize images on a laptop. Once trained, you can install the model anywhere (Android, Raspberry Pi) -- it is a bit of a hack. There are samples available.
- * 
+ 
+ 
+ ## Python Primer
+ Paul Logston 
+ 
+  * Get the REPL running by typing "Python"
+  * Write Functions: keyword "def" 
+  * Indentation denotes code blocks (no braces)
+
+
+  * For loops: 
+    * JavaScript ```for (int i=0; i>len; i++)``` 
+    * Python ```for _ in range(mykwarg): ```
+ 
+ 
+  * Built in Data Structures
+    * Dictionaries: ``` d = {'name': 'Paul', 'home': 'Harlem') ```
+    * Set: ``` s = {1, 2, 3, 4, 5} ``` 
+    * List: ``` l = [] ```
+    * Extend List: ``` l.append(1) ```
+
